@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="base-spring-mybatis-mysql-freemarker"
+  id="myeclipse.1488555221811"
+  context-root="/cwd-email"
+  j2ee-spec="5.0"
+  archive="base-spring-mybatis-mysql-freemarker.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
